@@ -1,5 +1,5 @@
 > [!TIP]
-> If do you prefer english version click [here](https://github.com/amskywalker/amskywalker/tree/master/english_version)
+> If do you prefer english version click [here](https://github.com/amskywalker/amskywalker)
 
 ## Olá, sou o Adailton!
 
