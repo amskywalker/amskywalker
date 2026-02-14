@@ -21,7 +21,7 @@ Meu objetivo é atuar como especialista em desenvolvimento backend, focando em a
 
 ## Experiências de trabalho
 
-[<img align="left" height="94px" width="94px" alt="PMA" src="https://github.com/amskywalker/amskywalker/blob/master/github/pma_brasao.png"/>](https://transparencia.aracaju.se.gov.br/prefeitura/estrutura-administrativa/contato-pgm/)
+[<img align="left" height="94px" width="94px" alt="PMA" src="https://www.aracaju.se.gov.br/imagens/Logo_prefaju.png"/>](https://transparencia.aracaju.se.gov.br/prefeitura/estrutura-administrativa/contato-pgm/)
 
 ### Líder Técnico Backend / Engenheiro de Software
 **Procuradoria Geral da Capital de Sergipe** • Aracaju, SE
@@ -36,7 +36,7 @@ _Linguagens & Tecnologias_: `Java`, `Groovy`, `Kotlin`, `Spring Boot`, `Spring G
 
 <br clear="left"/>
 
-[<img align="left" height="94px" width="94px" alt="Agily" src="https://github.com/amskywalker/amskywalker/blob/master/github/agily_logo.jpg"/>](https://agily.com.br/)
+[<img align="left" height="94px" width="94px" alt="Agily" src="https://www.aracaju.se.gov.br/imagens/Logo_prefaju.png"/>](https://agily.com.br/)
 
 ### Engenheiro Fullstack Junior
 **Agily Tecnologia** • Aracaju, SE
