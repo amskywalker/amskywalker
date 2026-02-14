@@ -1,57 +1,57 @@
 > [!TIP]
-> If do you prefer english version click [here](https://github.com/amskywalker/amskywalker/tree/master/english_version)
+> Se você prefere a versão em português clique [aqui](https://github.com/amskywalker/amskywalker/blob/main/PORTUGUESE.MD)
 
-## Olá, sou o Adailton!
+## Hi, I'm Adailton!
 
-Sou um entusiasta da tecnologia com foco em desenvolvimento backend e arquitetura de software. Comecei minha jornada em 2017 e, desde então, venho consolidando conhecimentos em algoritmos, engenharia de software e soluções escaláveis.
+I am a technology enthusiast focused on backend development and software architecture. I started my journey in 2017 and have since been consolidating knowledge in algorithms, software engineering, and scalable solutions.
 
-Atualmente, sou **Líder Técnico Backend** na **Procuradoria Geral da Capital de Sergipe**, onde lidero a modernização de sistemas judiciais, automação de processos e integração de microsserviços. Graduando em Ciência da Computação na Universidade Federal de Sergipe (UFS), busco constantemente aplicar novas tecnologias como Inteligência Artificial, DevOps e Cloud Computing para criar impacto positivo.
+Currently, I am a **Tech Lead Backend** at the **Municipal Legal Authority of Aracaju (Procuradoria Geral)**, where I lead the modernization of judicial systems, process automation, and microservices integration. Pursuing a Bachelor's Degree in Computer Science at the Federal University of Sergipe (UFS), I constantly seek to apply new technologies such as Artificial Intelligence, DevOps, and Cloud Computing to create positive impact.
 
-## 🎯 Objetivo Profissional
+## 🎯 Professional Objective
 
-Meu objetivo é atuar como especialista em desenvolvimento backend, focando em arquiteturas distribuídas, alta performance e escalabilidade. Continuo aprofundando meus conhecimentos em ecossistemas Cloud (AWS), Microsserviços e DevOps, enquanto contribuo para a comunidade técnica e projetos open-source.
+My goal is to specialize in backend development, focusing on distributed architectures, high performance, and scalability. I continue to deepen my knowledge in Cloud ecosystems (AWS), Microservices, and DevOps, while contributing to the technical community and open-source projects.
 
-## 🔧 Principais Habilidades
+## 🔧 Primary Skills
 
-- **Linguagens**: Java, Groovy, Kotlin, PHP
-- **Frameworks**: Spring Boot, Spring Webflux, Laravel, Grails
-- **Banco de Dados**: PostgreSQL, MySQL, MongoDB, SQL, JPA
+- **Languages**: Java, Groovy, Kotlin, PHP
+- **Frameworks**: Spring Boot, Spring Webflux, Laravel, Spring Framework
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQL, JPA
 - **DevOps & Cloud**: AWS, Docker, Kubernetes, CI/CD Pipelines, RabbitMQ
-- **Arquitetura & Práticas**: Microsserviços, REST APIs, GraphQL, TDD, DDD, SOLID, Design Patterns
+- **Architecture & Practices**: Microservices, REST APIs, gRPC, GraphQL, TDD, DDD, SOLID
 
-## Experiências de trabalho
+## Work Experience
 
-[<img align="left" height="94px" width="94px" alt="PMA" src="https://github.com/amskywalker/amskywalker/blob/master/github/pma_brasao.png"/>](https://transparencia.aracaju.se.gov.br/prefeitura/estrutura-administrativa/contato-pgm/)
+[<img align="left" height="94px" width="auto" alt="Brasão Aracaju" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bras%C3%A3o_de_Aracaju.svg/240px-Bras%C3%A3o_de_Aracaju.svg.png"/>](https://www.aracaju.se.gov.br/)
 
-### Líder Técnico Backend / Engenheiro de Software
+### Tech Lead Backend / Software Engineer
 **Procuradoria Geral da Capital de Sergipe** • Aracaju, SE
-_Out 2025 - Presente_
-_Linguagens & Tecnologias_: `Java`, `Groovy`, `Kotlin`, `Spring Boot`, `Spring GraphQL`, `MinIO`, `Docker`
+_Oct 2025 - Present_
+_Stack_: `Java`, `Groovy`, `Kotlin`, `Spring Boot`, `Spring GraphQL`, `MinIO`, `Docker`
 
-**Trajetória:**
-* **Líder Técnico Backend** (Out 2025 - Presente): Redução de 15% no acesso manual aos sistemas judiciais através de automação e liderança na integração com o STJ via MNI (SOAP).
-* **Engenheiro Backend Senior** (Mar 2025 - Out 2025): Liderança na migração de 2TB de documentos para MinIO S3 e otimização de performance que melhorou em 75% a velocidade de recuperação de arquivos.
-* **Engenheiro Backend Pleno** (Jun 2024 - Mar 2025): Migração de Spring REST para GraphQL (reduzindo latência em ~30%) e otimização de consultas de banco de dados.
-* **Engenheiro Backend Junior** (Nov 2023 - Jun 2024): Manutenção e modernização de sistemas legados em Grails e aplicação de Design Patterns.
+**Career Path:**
+* **Tech Lead Backend** (Oct 2025 - Present): Reduced manual access to court systems by approx. 15% through automation and led the integration with STJ via MNI (SOAP).
+* **Senior Backend Software Engineer** (Mar 2025 - Oct 2025): Drove a platform-level performance initiative that improved document retrieval speed by ~75% and led the migration of 2TB of documents to MinIO S3.
+* **Mid Backend Software Engineer** (Jun 2024 - Mar 2025): Drove architectural migration from Spring REST to Spring GraphQL (reducing latency by ~30%) and optimized database queries.
+* **Junior Software Engineer** (Nov 2023 - Jun 2024): Maintained legacy Grails systems and applied design patterns for cleaner codebases.
 
 <br clear="left"/>
 
-[<img align="left" height="94px" width="94px" alt="Agily" src="https://github.com/amskywalker/amskywalker/blob/master/github/agily_logo.jpg"/>](https://agily.com.br/)
+[<img align="left" height="94px" width="auto" alt="Agily" src="https://agily.com.br/assets/img/novo/logo.png"/>](https://agily.com.br/)
 
-### Engenheiro Fullstack Junior
+### Junior Fullstack Software Engineer
 **Agily Tecnologia** • Aracaju, SE
-_Mai 2021 - Jan 2022_
-_Linguagens & Tecnologias_: `PHP`, `Laravel`, `Vue.js`, `JavaScript`, `WebSockets`
+_May 2021 - Jan 2022_
+_Stack_: `PHP`, `Laravel`, `Vue.js`, `JavaScript`, `WebSockets`
 
-* Otimização de sistemas legados aplicando princípios de Clean Code para melhor manutenibilidade.
-* Desenvolvimento de plataforma interna de Planning Poker com WebSockets para padronização de estimativas ágeis.
-* Construção de integrações entre Bitbucket e Discord para centralizar a visibilidade de Code Reviews.
+* Maintained and optimized legacy PHP systems, applying Clean Code principles.
+* Designed and built an internal Planning Poker platform using WebSockets to standardize agile estimation practices.
+* Built an integration between Bitbucket and Discord to centralize code review visibility.
 
 <br clear="left"/>
 
-Para mais detalhes, me encontre no [LinkedIn](https://www.linkedin.com/in/adailton-moura/).
+For more details, find me on [LinkedIn](https://www.linkedin.com/in/adailton-moura/).
 
-## Projetos
+## Projects
 
 <table>
   <tr>
@@ -80,17 +80,17 @@ Para mais detalhes, me encontre no [LinkedIn](https://www.linkedin.com/in/adailt
   </tr>
 </table>
 
-## 🎓 Educação
+## 🎓 Education
 
-- **Bacharelado em Ciência da Computação**
+- **Bachelor's Degree, Computer Science**
 Universidade Federal de Sergipe (UFS)
-Previsão de Formatura: Junho 2026
+Graduation Date: Jun 2026
 
-- **Curso Técnico de Nível Médio Integrado**
-Instituto Federal de Ciência e Tecnologia de Sergipe (IFS)
-Concluído: Abril 2021
+- **Technical High School in System Development**
+Instituto Federal de Educação, Ciência e Tecnologia de Sergipe (IFS)
+Graduation Date: April 2021
 
-## 🌐 Idiomas
+## 🌐 Languages
 
-- Português: Nativo
-- Inglês: Técnico
+- Portuguese: Native
+- English: Technical/Professional
