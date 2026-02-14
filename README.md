@@ -21,7 +21,7 @@ My goal is to specialize in backend development, focusing on distributed archite
 
 ## Work Experience
 
-[<img align="left" height="94px" width="auto" alt="Brasão Aracaju" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bras%C3%A3o_de_Aracaju.svg/240px-Bras%C3%A3o_de_Aracaju.svg.png"/>](https://www.aracaju.se.gov.br/)
+[<img align="left" height="94px" width="auto" alt="Brasão Aracaju" src="https://www.aracaju.se.gov.br/imagens/brasao-279x247.png"/>](https://www.aracaju.se.gov.br/)
 
 ### Tech Lead Backend / Software Engineer
 **Procuradoria Geral da Capital de Sergipe** • Aracaju, SE
@@ -36,7 +36,7 @@ _Stack_: `Java`, `Groovy`, `Kotlin`, `Spring Boot`, `Spring GraphQL`, `MinIO`, `
 
 <br clear="left"/>
 
-[<img align="left" height="94px" width="auto" alt="Agily" src="https://agily.com.br/assets/img/novo/logo.png"/>](https://agily.com.br/)
+[<img align="left" height="94px" width="auto" alt="Agily" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-OmuVTpr1aazdQ_SmY-t1q4sABgbI3-nqZg&s"/>](https://agily.com.br/)
 
 ### Junior Fullstack Software Engineer
 **Agily Tecnologia** • Aracaju, SE
